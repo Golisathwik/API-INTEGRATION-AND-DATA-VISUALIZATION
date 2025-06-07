@@ -69,3 +69,10 @@ The processed data is then transformed into meaningful and easy-to-understand vi
 * **Visualization Dashboard:** The output of the script, which is a displayed graphical window containing multiple subplots (the weather dashboard), providing a comprehensive visual summary of the fetched weather forecast.
 
 This project effectively demonstrates a full data pipeline, from raw data acquisition to insightful visual storytelling, making it a strong showcase of practical data science and programming skills.
+
+
+---
+
+### **output**
+
+![Image](https://github.com/user-attachments/assets/b8bb9cfe-34c5-44ef-adaf-d94b87a003f6)
