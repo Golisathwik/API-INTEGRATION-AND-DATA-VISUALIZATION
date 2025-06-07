@@ -68,8 +68,6 @@ The processed data is then transformed into meaningful and easy-to-understand vi
 * **Python Script:** The executable Python code (`.py` file) that performs all the steps: API data fetching, data processing, and visualization generation.
 * **Visualization Dashboard:** The output of the script, which is a displayed graphical window containing multiple subplots (the weather dashboard), providing a comprehensive visual summary of the fetched weather forecast.
 
-This project effectively demonstrates a full data pipeline, from raw data acquisition to insightful visual storytelling, making it a strong showcase of practical data science and programming skills.
-
 
 ---
 
