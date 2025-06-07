@@ -73,6 +73,6 @@ This project effectively demonstrates a full data pipeline, from raw data acquis
 
 ---
 
-### **output**
+## Output
 
 ![Image](https://github.com/user-attachments/assets/b8bb9cfe-34c5-44ef-adaf-d94b87a003f6)
