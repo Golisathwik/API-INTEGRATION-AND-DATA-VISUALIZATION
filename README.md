@@ -12,9 +12,13 @@ DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-Project Description: API Integration and Dynamic Weather Visualization
+---
+
+## Project Description: API Integration and Dynamic Weather Visualization
 
 This project focuses on demonstrating practical skills in **API integration** and **data visualization** using Python. The core objective is to fetch real-time or forecast weather data from a public API, process this data, and then present it through interactive and insightful visualizations using popular Python libraries.
+
+---
 
 ### **1. API Integration (Data Fetching)**
 
@@ -65,4 +69,3 @@ The processed data is then transformed into meaningful and easy-to-understand vi
 * **Visualization Dashboard:** The output of the script, which is a displayed graphical window containing multiple subplots (the weather dashboard), providing a comprehensive visual summary of the fetched weather forecast.
 
 This project effectively demonstrates a full data pipeline, from raw data acquisition to insightful visual storytelling, making it a strong showcase of practical data science and programming skills.
-
